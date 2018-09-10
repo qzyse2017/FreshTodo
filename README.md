@@ -1,6 +1,8 @@
-# FreshTodo
+<h1 align="center">FreshTodo</h1> 
+<p align="center">A cross-platform app to better manage your todo lists.</p>
 
-A cross-platform app to better manage your todo lists.
+![logo](logo/fresh-logo.png)
+
 
 ## Motivation
 Just too many todo-items(hundreds of items I guess😭) have been stayed on my lists. Without priority of urgency and importance, I often get into devoting my time to something less important.
@@ -10,6 +12,7 @@ The tools I am currently using: Microsoft TO-DO and stickyNotes are just not eff
 Wanna a new way to manage my TODO items, sort them by urgency and importance and let it more user-friendly. 
 
 ## Feature
+- [ ] search items
 
 
 ## Built on
