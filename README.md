@@ -20,6 +20,10 @@ Wanna a new way to manage my TODO items, sort them by urgency and importance and
  
 ## RoadMap
 All in Go.
+For specific roadmap, see [here](docs/RoadMap.md)
+
+Also going to implement a FP version.
+Make a goal here, should start the FP version before 1st, Nov.
 
 ## Goal 
 Before 15th, Oct, 2018 -- a simple version I can add, delete and move easily in four quadrants divided by two axis of importance and urgency.
