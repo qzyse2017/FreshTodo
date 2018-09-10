@@ -25,6 +25,8 @@ For specific roadmap, see [here](docs/RoadMap.md)
 Also going to implement a FP version.
 Make a goal here, should start the FP version before 1st, Nov.
 
+Hoping to try [fluent design](https://www.microsoft.com/design/fluent/) as GUI part.```:)```
+
 ## Goal 
 Before 15th, Oct, 2018 -- a simple version I can add, delete and move easily in four quadrants divided by two axis of importance and urgency.
 
