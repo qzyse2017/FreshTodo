@@ -1,7 +1,10 @@
 <h1 align="center">FreshTodo</h1> 
 <p align="center">A cross-platform app to better manage your todo lists.</p>
 
-![logo](logo/fresh-logo.png)
+
+<p align="center">
+  <img src="logo/fresh-logo-small.png" />
+</p>
 
 
 ## Motivation
