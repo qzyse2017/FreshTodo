@@ -16,6 +16,8 @@ Wanna a new way to manage my TODO items, sort them by urgency and importance and
 
 ## Feature
 - [ ] search items
+- [ ] notification for near future TODO items
+- [ ] output in readable format
 
 
 ## Built on
